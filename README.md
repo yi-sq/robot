@@ -89,7 +89,7 @@ rqt_image_view
 
 
 * 在终端提示中选择题目 `1` 。
-![测试图片](https://gitee.com/hhhyhy/hy/raw/master/image/1.png)
+[![任务脚本运行](https://gitee.com/hhhyhy/hy/raw/master/image/1.png)]
 
 
 
