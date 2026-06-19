@@ -91,8 +91,11 @@ rqt_image_view
 * 在终端提示中选择题目 `1` 。
 ![任务脚本运行](https://raw.giteeusercontent.com/hhhyhy/hy/raw/master/image/1.png?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJpbWFnZS8xLnBuZyIsInVpZCI6MTYwOTc1NzgsInBpZCI6NDgzMDU1MzAsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAwNCIsInJwIjoicmVwb3MvMDMvZTAvMDNlMDJiN2Y0NTVlYmFkMTQyMWVlMTQ2MWI5OGRmOTc0MWQ1OTQzNmQ4Yzg2OTEyMWU1ODFlNzA5MTVkYjAzNS5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc4MTg3NTgwMH0&signature=fRXp933uiS3PLNuKcOp2ch1tPHYeOEGcsEGZn4s7Vpg)
 
-* 运行结果样例 。
+* 运行结果样例。
+
 ![任务一的选择信息](https://raw.giteeusercontent.com/hhhyhy/hy/raw/master/image/2.png?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJpbWFnZS8yLnBuZyIsInVpZCI6MTYwOTc1NzgsInBpZCI6NDgzMDU1MzAsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAwNCIsInJwIjoicmVwb3MvMDMvZTAvMDNlMDJiN2Y0NTVlYmFkMTQyMWVlMTQ2MWI5OGRmOTc0MWQ1OTQzNmQ4Yzg2OTEyMWU1ODFlNzA5MTVkYjAzNS5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc4MTg3NTgwMH0&signature=hi2Dhtf2g5dtXlIyLmd_xEI1YPXCLQkWGuydQapAJng)
+
+
 
 3. **编译并启动任务一控制节点** 
 
