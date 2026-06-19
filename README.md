@@ -89,12 +89,12 @@ rqt_image_view
 
 
 * 在终端提示中选择题目 `1` 。
-
+https://gitee.com/hhhyhy/hy/raw/master/image/1.png
 
 
 
 3. **编译并启动任务一控制节点** 
-https://gemini.google.com/
+
 
 * 新建终端，依次输入：
 
